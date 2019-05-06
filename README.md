@@ -6,7 +6,8 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
 # Course 1. Neural Networks and Deep Learning
 
-  Week 1:
+  Week1:Introduction to deep learning
+  Week2:
 
 
 
