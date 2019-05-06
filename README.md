@@ -6,9 +6,16 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
 # Course 1. Neural Networks and Deep Learning
 
-  Week1:Introduction to deep learning
-  Week2:
-
+  Week1 - Introduction to deep learning
+  Week2 - Neural Networks Basics
+        。[Logistic Regression with a Neural Network mindset]
+        keywords:Logistic Regression
+  Week3 - Shallow neural networks
+        。[Planar data classification with one hidden layer]
+        keywords:2-class classification neural network
+  Week4 - Deep Neural Networks
+        。[Building your Deep Neural Network - Step by Step]
+        。[Deep Neural Network - Application]
 
 
 # Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
