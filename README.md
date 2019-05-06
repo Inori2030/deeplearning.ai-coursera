@@ -16,7 +16,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 4. Week4 - Deep Neural Networks
          。[Building your Deep Neural Network - Step by Step]
          。[Deep Neural Network - Application]
-
+         keywords:L-layer neural network, cat classification
 
 # Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
