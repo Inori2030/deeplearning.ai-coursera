@@ -13,16 +13,16 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
    [Logistic Regression with a Neural Network mindset](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 
-keywords:Logistic Regression
+   keywords:Logistic Regression
 3. Week3 - Shallow neural networks
 
-         。[Planar data classification with one hidden layer]
-         keywords:2-class classification neural network
+   [Planar data classification with one hidden layer](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+   keywords:2-class classification neural network
 4. Week4 - Deep Neural Networks
 
-         。[Building your Deep Neural Network - Step by Step]
-         。[Deep Neural Network - Application]
-         keywords:L-layer neural network, cat classification
+   [Building your Deep Neural Network - Step by Step](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+   [Deep Neural Network - Application](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Deep%20Neural%20Network%20-%20Application.ipynb)
+   keywords:L-layer neural network, cat classification
 
 # Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
