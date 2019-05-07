@@ -19,7 +19,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
    [Planar data classification with one hidden layer](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
    
-   --keywords:2-class classification neural network
+   **keywords**:2-class classification neural network
    
 4. Week4 - Deep Neural Networks
 
@@ -27,7 +27,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Deep Neural Network - Application](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Deep%20Neural%20Network%20-%20Application.ipynb)
    
-   --keywords:L-layer neural network, cat classification
+   **keywords**:L-layer neural network, cat classification
 
 # Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
@@ -43,7 +43,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
    [Optimization methods](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C2/Optimization%20methods.ipynb)
    
-   --keywords:GD, Mini-Batch GD, Momentum,Adam
+   **keywords**:GD, Mini-Batch GD, Momentum,Adam
          
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
@@ -63,7 +63,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Convolution model - Application](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C4/W1/Convolution%20model%20-%20Application.ipynb)
    
-   --keywords:CNN, signs classification, tf
+   **keywords**:CNN, signs classification, tf
 
 2. Week2 - Deep convolutional models: case studies
 
@@ -71,13 +71,13 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Residual Networks](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C4/W2/Residual%20Networks/Residual%20Networks.ipynb)
    
-   --keywords:Keras, Residual Networks, signs classification
+   **keywords**:Keras, Residual Networks, signs classification
          
 3. Week3 - Object detection
 
    [Car detection for Autonomous Driving](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C4/W3/Car%20detection%20for%20Autonomous%20Driving/Autonomous%20driving%20application%20-%20Car%20detection.ipynb)
    
-   --keywords:YOLO_v2, Keras 
+   **keywords**:YOLO_v2, Keras 
 
 4. Week4 - Special applications: Face recognition & Neural style transfer
 
@@ -85,7 +85,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Face Recognition for the Happy House](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C4/W4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House.ipynb)
    
-   --keywords:tf, Face Verification, Face Recognition, Keras
+   **keywords**:tf, Face Verification, Face Recognition, Keras
 
 # Course 5. Sequence Models
 
@@ -97,7 +97,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Jazz improvisation with LSTM](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C5/W1/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network.ipynb)
    
-   --keywords:RNN, LSTM, Keras
+   **keywords**:RNN, LSTM, Keras
 
 2. Week2 - Natural Language Processing & Word Embeddings
 
@@ -105,7 +105,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Emojify](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C5/W2/Emojify/Emojify.ipynb)
    
-   --keywords:word vectors, embedding layer, LSTM, Keras
+   **keywords**:word vectors, embedding layer, LSTM, Keras
          
 3. Week3 - Sequence models & Attention mechanism
 
@@ -113,6 +113,6 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
    
    [Trigger word detection](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C5/W3/Trigger%20word%20detection/Trigger%20word%20detection.ipynb)
    
-   --keywords:attention mechanism, LSTM, sound data generation, GRU 
+   **keywords**:attention mechanism, LSTM, sound data generation, GRU 
 
 
