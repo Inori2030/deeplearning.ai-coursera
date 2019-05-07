@@ -11,7 +11,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 1. Week1 - Introduction to deep learning
 2. Week2 - Neural Networks Basics
 
-   [Logistic Regression with a Neural Network mindset](C1/Logistic Regression with a Neural Network mindset.ipynb)
+   [Logistic Regression with a Neural Network mindset](deeplearning.ai-coursera/C1/Logistic Regression with a Neural Network mindset.ipynb)
 
    **keywords**:Logistic Regression
    
