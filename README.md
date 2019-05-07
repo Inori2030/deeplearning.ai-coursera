@@ -13,7 +13,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 
    [Logistic Regression with a Neural Network mindset](https://github.com/Inori2030/deeplearning.ai-coursera/blob/master/C1/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 
-   --**keywords:**Logistic Regression
+   **keywords**:Logistic Regression
    
 3. Week3 - Shallow neural networks
 
