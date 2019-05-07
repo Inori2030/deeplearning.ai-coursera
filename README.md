@@ -32,7 +32,7 @@ By the way, this specialization is friendly for an ai beginner, it's recommend e
 2. Week2 - Optimization algorithms
 
          。[Optimization methods]
-         keywords:GD, Mini-Batch GD, Momentun,Adam
+         keywords:GD, Mini-Batch GD, Momentum,Adam
          
 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
