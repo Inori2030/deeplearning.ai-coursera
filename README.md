@@ -3,8 +3,8 @@ The Specialization contains five courses, the code below are reference answers t
 
 By the way, this specialization is friendly for an ai beginner, it's recommend everyone to break into this field.
 
-Deep Learning Specialization by Andrew Ng, deeplearning.ai
-https://www.coursera.org/specializations/deep-learning
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng, deeplearning.ai
+
 
 # Course 1. Neural Networks and Deep Learning
 
